@@ -3,11 +3,11 @@
 
 > Estatistica basica (Bussab)
 
- [1 - Proporções, porcentagens e variações percentuais](./A/1.md)
+ [1 - Proporções, porcentagens e variações percentuais](./A/a.md)
 
- [2 - Noções de média, mediana e desvio-padrão](./A/2.md)
+ [2 - Noções de média, mediana e desvio-padrão](./A/a.md)
 
- [3 - Interpretação de gráficos e tabelas](./A/3.md)
+ [3 - Interpretação de gráficos e tabelas](./A/a.md)
 
 # B. Fundamentos de Estatística: 
 
