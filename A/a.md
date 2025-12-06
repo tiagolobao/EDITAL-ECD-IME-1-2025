@@ -14,11 +14,11 @@
 > (n1 + n2 + n3 + ... + nm) / m 
 
 mediana:
- - Se n  é ímpar, então a mediana é o elemento na posição
+ - Se n é ímpar, então a mediana é o elemento na posição
 
 > (n + 1) / 2
 
- - Se n  é par, então a mediana é a média artimética entre os elementos nas posições
+ - Se n é par, então a mediana é a média artimética entre os elementos nas posições
 
 > n / 2 e (n / 2) + 1
 
@@ -32,4 +32,3 @@ Esse tema, vou apenas mostrar exemplos de como plotar graficos e tabelas em pyth
 
 [Exemplo plot python](plot.py) <br>
 [Exemplo plot R](plot.r)
-

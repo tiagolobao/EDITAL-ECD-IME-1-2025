@@ -57,4 +57,3 @@
  [1 - Como a Estatística pode apoiar decisões em áreas aplicadas.](./E/1.md)
 
  [2 - Interpretação crítica de estudos com dados.](./E/2.md)
-                                                     
