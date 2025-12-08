@@ -1,34 +1,33 @@
+## Proporções, porcentagens e variações percentuais
 
-## Proporções, porcentagens e variacoes percentuais
-
- 100% e igual a 1, 50% e igual a 0.5. Seguindo essa logica, fica facil de resolver qualquer problema
- Segue exemplos para calcular em R e Python
+100% é igual a 1, 50% é igual a 0,5. Seguindo essa lógica, fica fácil resolver qualquer problema.
+Seguem exemplos para calcular em R e Python:
 
 [Exemplo percentagem python](percentagem.py) <br>
 [Exemplo percentagem R](percentagem.r)
 
-## Media, mediana e desvio-padrão
+## Média, mediana e desvio-padrão
 
-- Media e a soma de todos os elementos dividio pelo numero de elementos. dada pela formula:
+- Média é a soma de todos os elementos dividida pelo número de elementos. Dada pela fórmula:
 
-> (n1 + n2 + n3 + ... + nm) / m 
+> (n₁ + n₂ + n₃ + ... + nₘ) / m 
 
-mediana:
+Mediana:
  - Se n é ímpar, então a mediana é o elemento na posição
 
 > (n + 1) / 2
 
- - Se n é par, então a mediana é a média artimética entre os elementos nas posições
+ - Se n é par, então a mediana é a média aritmética entre os elementos nas posições
 
 > n / 2 e (n / 2) + 1
 
-[Exemplo media/mediana python](media.py) <br>
-[Exemplo media/mediana R](media.r)
+[Exemplo média/mediana python](media.py) <br>
+[Exemplo média/mediana R](media.r)
 
 ## Interpretação de gráficos e tabelas
 
-Isso e algo subjetivo. Com certeza vai ser abordado em outros temas. Para
-Esse tema, vou apenas mostrar exemplos de como plotar graficos e tabelas em python e R
+Isso é algo subjetivo. Com certeza será abordado em outros temas. Para
+este tema, vou apenas mostrar exemplos de como plotar gráficos e tabelas em Python e R:
 
 [Exemplo plot python](plot.py) <br>
 [Exemplo plot R](plot.r)

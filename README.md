@@ -1,7 +1,6 @@
+# A. Raciocínio lógico e quantitativo:
 
-# A. Raciocínio lógico e quantitativo: 
-
-> Estatistica basica (Bussab)
+> Estatística básica (Bussab)
 
  [1 - Proporções, porcentagens e variações percentuais](./A/a.md)
 
@@ -9,9 +8,9 @@
 
  [3 - Interpretação de gráficos e tabelas](./A/a.md)
 
-# B. Fundamentos de Estatística: 
+# B. Fundamentos de Estatística:
 
-> Estatistica basica (Bussab)
+> Estatística básica (Bussab)
 
  [1 - Tipos de variáveis e escalas de medida.](./B/1.md)
 
@@ -28,7 +27,7 @@
 
 # C. Interpretação de resultados:
 
-> Introducao a inferencia Estatistica
+> Introdução à inferência estatística
 
  [1 - Leitura de resultados de tabelas estatísticas (p-valor, IC, coeficientes, estatísticas).](./C/7.md)
 
@@ -37,7 +36,7 @@
 
 # D. Noções de Computação:
 
-> Livro datascience com R: https://r4ds.hadley.nz/
+> Livro Data Science com R: https://r4ds.hadley.nz/
 
 > NETTO, A.; MACIEL, F. Python para Data Science e Machine Learning Descomplicado. 1. ed
 
@@ -52,7 +51,7 @@
 
 # E. Aplicações e pensamento analítico:
 
-> Nao tenho livro
+> Não tenho livro
 
  [1 - Como a Estatística pode apoiar decisões em áreas aplicadas.](./E/1.md)
 
