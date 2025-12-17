@@ -5,6 +5,8 @@ import pandas as pd
 dados = pd.read_csv("./B/questao_2.csv")
 variaveis = ["Estado_civil", "Regiao_de_procedencia", "N_de_filhos", "idade"]
 
+# %%
+
 
 def prepare_plot(dados, variaveis: list[str]):
     for idx, var in enumerate(variaveis):
@@ -13,9 +15,15 @@ def prepare_plot(dados, variaveis: list[str]):
             counts = dados[var].str.strip().value_counts()
         elif pd.api.types.is_numeric_dtype(dados[var]):
             counts = dados[var].astype(int).value_counts()
+        else:
+            print("Algo de errado nao esta certo")
+            return
         plt.bar(counts.index, counts.values)
 
 
 prepare_plot(dados, variaveis)
+plt.show()
 
-plt.savefig("questao_2_py.png", dpi=100, bbox_inches="tight", format="png")
+# %%
+
+## plt.savefig("questao_2_py.png", dpi=100, bbox_inches="tight", format="png")
